@@ -3338,6 +3338,13 @@ td{
 	color: #0099CC;
 }
 
+.paperInfoStyle
+{
+	font:inherit;
+	font-size: 12pt;
+	color: #0099CC;
+}
+
 .interval
 {
     font-family: Candara;
